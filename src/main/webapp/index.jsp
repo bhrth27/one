@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>College Website</title>
+    <title>WELCOME TO THIS WEBSITE</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -100,7 +100,7 @@
         <a href="#home">Home</a>
         <a href="#admissions">Admissions</a>
         <a href="#courses">Courses</a>
-        <a href="#contact">Contact Us</a>
+        <a href="#contact">ContacGYUGHHKG</a>
         <a href="#login">Student Login</a>
     </nav>
 
