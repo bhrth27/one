@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to Our College</h1>
+        <h1>padi da paramaa</h1>
 <h2>this is the scaammm</h2>
     </header>
 
