@@ -14,7 +14,7 @@
         header {
             background-color: #333;
             color: #fff;
-            padding: 10px 0;
+            padding: 50px 0;
             text-align: center;
         }
         nav {
