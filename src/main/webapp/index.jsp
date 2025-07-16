@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>This is my college</h1>
+        <h1>hello my world</h1>
 <h2>COLLEGE OF ARTS AND SCIENCE</h2>
 <h2>this is the scaammm</h2>
     </header>
