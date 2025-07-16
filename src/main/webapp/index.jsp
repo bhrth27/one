@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vankam</title>
+    <title>My college </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>WElcome to the college</h1>
+        <h1>This is my college</h1>
 <h2>COLLEGE OF ARTS AND SCIENCE</h2>
 <h2>this is the scaammm</h2>
     </header>
